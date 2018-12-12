@@ -1,3 +1,6 @@
+This template is from https://github.com/ACMatUC/groupme-bot-starter
+All credit to them
+
 # GroupMe Bot Starter
 
 [![GNU GPLv3 License](https://img.shields.io/github/license/acmatuc/groupme-bot-starter.svg?maxAge=2592000)]()
